@@ -629,7 +629,7 @@ func shouldUseResponsesAPI(model string) bool {
 		"o4", "o4-mini",
 		// Codex models (Responses API only)
 		"codex-mini",
-		"gpt-5.1-codex", "gpt-5-codex",
+		"gpt-5.2-codex", "gpt-5.1-codex", "gpt-5-codex",
 		// GPT-5 Pro (Responses API only)
 		"gpt-5-pro",
 		// Computer use preview (Responses API only)
